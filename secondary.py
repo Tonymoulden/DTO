@@ -1,5 +1,5 @@
-#author: <author here>
-# date: <date here>
+#author: Tony Moulden
+# date: 07/01/2021
 
 # --------------- Section 3 --------------- #
 #  String Duplication / Pattern Recognition #
@@ -13,8 +13,11 @@
 # $$$
 # $$$$
 # $$$$$
-
-
+print('$')
+print('$'*2)
+print('$'*3)
+print('$'*4)
+print('$'*5)
 
 # create the following pattern using string duplication and print statments:
 #
@@ -23,8 +26,11 @@
 # $$$
 # $$
 # $
-
-
+print('$'*5)
+print('$'*4)
+print('$'*3)
+print('$'*2)
+print('$')
 
 # create the following pattern using string duplication and print statments:
 #
